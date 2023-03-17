@@ -26,3 +26,6 @@ ssh-keygen
 
 7. git clone ssh://git@codecloud.web.att.com:7999/st_first/firstjavamanagers.git --branch Test
 
+Fork -- When you fork a project it will reflect in your GIT.
+
+
